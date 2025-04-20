@@ -1,4 +1,0 @@
-Do we need to explicitly show the calculation of % variance across stores?
-
-Part 5 reflection "Any assumptions or potential biases in the data"
--> Are these assumptions I made, or assumptions baked into the data?
